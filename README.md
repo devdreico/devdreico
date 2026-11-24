@@ -21,6 +21,7 @@ Full-stack engineer based in Colombia. I build health-tech and AI-assisted deskt
 - [KSPR-DESKTOP](https://github.com/devdreico/KSPR-DESKTOP) — AI desktop assistant (React/Electron + Python backend).
 - [Quonceptory-Health](https://github.com/devdreico/Quonceptory-Health) — health product (Next.js).
 - [Presentto-Online](https://github.com/devdreico/Presentto-Online) — deploy platform (Astro + Cloudflare/Supabase).
+- [fastapi-production-template](https://github.com/devdreico/fastapi-production-template) — production-ready FastAPI starter (tests, lint, Docker, CI, releases).
 
 ## Contact
 
